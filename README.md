@@ -13,6 +13,7 @@ The objective of this project is to derive business insights regarding customer 
 - Total Records: 1,000,000
 - Total Features: 13
 - Time Period: 2020 - 2024
+- Dataset Link:https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset/data
 
 ### Features
 
